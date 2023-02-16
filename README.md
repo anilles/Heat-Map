@@ -3,7 +3,7 @@ A tool used to pull location data from a spread sheet and graph the number of oc
 
 Using a .xlsx file with the column Location that includes the relevant location data. This program was used to count all occurences of state specific data. 
 
-The program would then combine any data from states that wher seperate by North and South. For example, data from North Texas and South Texas would be combined into one to aggregate all the counted occurences.
+The program would then combine any data from states that were seperated by North and South. For example, data from North Texas and South Texas would be combined into one to aggregate all the counted occurences.
 
 This would then use the GeoJSON date from the included map to color each state based on the number of occurences. 
 
